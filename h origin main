@@ -1,0 +1,23 @@
+[33mcommit d5b07332ffb14fd162247e0299a78fbb93b3f2ee[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Nedim <Nedimbasic7@gmail.com>
+Date:   Sat Nov 26 09:45:26 2022 +0100
+
+    Edit README.md and hello_world.txt
+
+[33mcommit 28670667bc860c54930b277d6eef0e6aeb56a03e[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Nedim <Nedimbasic7@gmail.com>
+Date:   Fri Sep 16 16:35:38 2022 +0200
+
+    Edit README.md and hello_world.txt
+
+[33mcommit 013e472acc0d66934b60895dbfe5ea834f832c00[m
+Author: Nedim <Nedimbasic7@gmail.com>
+Date:   Thu Sep 15 15:51:21 2022 +0200
+
+    Add hello_world.txt
+
+[33mcommit 35bce964d02d06180849eaa7720a7b1042b5b003[m
+Author: Ned111m <113607845+Ned111m@users.noreply.github.com>
+Date:   Thu Sep 15 15:40:06 2022 +0200
+
+    Initial commit
